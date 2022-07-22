@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - check the code
+ *
+ * Return: nothing
+ */
 int main(void)
 {
 	int n;
